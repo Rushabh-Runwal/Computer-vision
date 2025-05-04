@@ -5,18 +5,7 @@ This repository contains Google Colab notebooks and detailed video walkthroughs 
 The project is divided into **four parts**, each covering specific learning paradigms with clear examples, visualizations, and outputs.
 
 ---
-
 ## 🎥 [Video Walkthrough](youtube.com)
-
-Each Colab is paired with a **detailed video walkthrough** explaining:
-- Code structure and key logic.
-- Dataset preparation.
-- Model implementation.
-- Visualizations and evaluation metrics.
-- Debugging steps and performance interpretation.
-
-👉 Find all videos in the `videos/` directory or linked inside each notebook.
-
 ---
 
 ## 📦 Repository Overview
