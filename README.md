@@ -21,10 +21,10 @@ Each Colab is paired with a **detailed video walkthrough** explaining:
 
 ## 📦 Repository Overview
 
-✅ [**Part 1:** Supervised Contrastive Learning]()
-✅ [**Part 2:** Transfer Learning on Images, Video, Audio, and NLP]()
-✅ [**Part 3:** Zero-Shot Transfer Learning (CLIP, BigTransfer)]()
-✅ [**Part 4:** Vision Classifiers on MNIST, FashionMNIST, CIFAR-10, X-ray, and CT Scans]()
+- [**Part 1:** Supervised Contrastive Learning]
+- [**Part 2:** Transfer Learning on Images, Video, Audio, and NLP]
+- [**Part 3:** Zero-Shot Transfer Learning (CLIP, BigTransfer)]
+- [**Part 4:** Vision Classifiers on MNIST, FashionMNIST, CIFAR-10, X-ray, and CT Scans]
 
 ---
 
