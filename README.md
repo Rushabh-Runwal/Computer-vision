@@ -1,4 +1,4 @@
-# 🖼️ Computer Vision Assignment: Supervised Contrastive Learning, Transfer Learning, and Zero-Shot Models
+# 🖼️ Computer Vision Assignment: Supervised Contrastive Learning, Transfer Learning, Zero-Shot Models, Vision Classifications
 
 This repository contains Google Colab notebooks and detailed video walkthroughs demonstrating key computer vision techniques across **supervised contrastive learning**, **transfer learning (across modalities)**, and **zero-shot learning**.
 
@@ -10,10 +10,10 @@ The project is divided into **four parts**, each covering specific learning para
 
 ## 📦 Repository Overview
 
-- [**Part 1:** Supervised Contrastive Learning]
-- [**Part 2:** Transfer Learning on Images, Video, Audio, and NLP]
-- [**Part 3:** Zero-Shot Transfer Learning (CLIP, BigTransfer)]
-- [**Part 4:** Vision Classifiers on MNIST, FashionMNIST, CIFAR-10, X-ray, and CT Scans]
+- [**Part 1:** Supervised Contrastive Learning](https://colab.research.google.com/drive/1x09Z-STlnFILSWAF8V73AkytR4O0zd36?usp=sharing)
+- [**Part 2:** Transfer Learning on Images, Audio, and NLP](https://colab.research.google.com/drive/19iOqOCV-6VdUEf7SHphFqhIG4Spgi4pQ?usp=sharing)
+- [**Part 3:** Zero-Shot Transfer Learning (CLIP, BigTransfer)](https://colab.research.google.com/drive/14S77FwcbbzBQNNnnAPHB9BGDgpQg_p8T?usp=sharing)
+- [**Part 4:** Vision Classifiers on MNIST, FashionMNIST, CIFAR-10, X-ray, and CT Scans](https://colab.research.google.com/drive/1yD4DsSvwAxPUX3QFL-IAP9J3l0JTKXXf?usp=sharing)
 
 ---
 
